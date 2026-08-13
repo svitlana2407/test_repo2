@@ -3,3 +3,5 @@ test case1
 test case2
 
 test case3
+Test case title: some title
+Steps to reproduce: 1,2,3
